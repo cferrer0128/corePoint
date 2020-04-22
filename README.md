@@ -57,18 +57,23 @@ We will use (0,0) is the center, X is the horizontal, Y is the vertical.
   "y1": 0,
   }
   ```
--click execute.
--- Step 2
--@get Locations: try
--/api/Location/GetLocationItems
--click execute
--# repeat step 1 as many time as you want.
--#calculate Distances (formula used Math.Sqrt(number) and a* = a for SQR only)
--##assumptions
--there is no distance point of reference eg:
--5 miles from given point
--you will see the closest one first.
--you will be testing using swagger V1
--##Enjoy
+- click execute.
+- Step 2
+- @get Locations: try
+- /api/Location/GetLocationItems
+- click execute
+- repeat step 1 as many time as you want.
+- calculate Distances (formula used Math.Sqrt(number) and a* = a for SQR only)
+- assumptions
+- there is no distance point of reference eg:
+- 5 miles from given point
+- you will see the closest one first.
+- you will be testing using swagger V1
+- ....Enjoy....
+  
+## Running the Application with VS Code
+- Open VS just type Code .
+- run the project with dotnet run
+- open this link https://localhost:5001/swagger/index.html
 
 
