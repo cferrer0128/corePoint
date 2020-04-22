@@ -38,14 +38,16 @@ We will use (0,0) is the center, X is the horizontal, Y is the vertical.
   
   
 ## Running the Application
-Port={your_dev_port}
-Open this project with VS 2017+
-then F5
-Open this URL: https://localhost:44339/swagger/index.html
-#step 1
-@inpout new data: Try
-/api/Location/AddLocation
-Json input data:
+- Open this project with VS 2017+
+- Port={your_dev_port}
+- Open this URL: https://localhost:44339/swagger/index.html:
+- run click F5
+- Port={your_dev_port}
+
+##step 1
+- @inpout new data: Try
+- /api/Location/AddLocation
+- Json input data:
 {
   "ItemName": "string",
   "x": 0,
