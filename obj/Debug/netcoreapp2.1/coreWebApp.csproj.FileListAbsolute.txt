@@ -1,0 +1,14 @@
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\bin\Debug\netcoreapp2.1\coreWebApp.deps.json
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\bin\Debug\netcoreapp2.1\coreWebApp.runtimeconfig.json
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\bin\Debug\netcoreapp2.1\coreWebApp.runtimeconfig.dev.json
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\bin\Debug\netcoreapp2.1\coreWebApp.dll
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\bin\Debug\netcoreapp2.1\coreWebApp.pdb
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.csproj.CoreCompileInputs.cache
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.RazorAssemblyInfo.cache
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.RazorAssemblyInfo.cs
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.AssemblyInfoInputs.cache
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.AssemblyInfo.cs
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.RazorTargetAssemblyInfo.cache
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.dll
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.pdb
+D:\ServiceFabricMesh\coreWebApp\coreWebApp\obj\Debug\netcoreapp2.1\coreWebApp.csprojAssemblyReference.cache
