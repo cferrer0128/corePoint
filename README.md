@@ -49,17 +49,15 @@ We will use (0,0) is the center, X is the horizontal, Y is the vertical.
 - Json input data:
   - add a street with a name using 2 points (POST baseurl/street - with the body being a street)
   ```
-{
+  {
   "ItemName": "string",
   "x": 0,
   "y": 0,
   "x1": 0,
   "y1": 0,
-  
-}
+  }
   ```
-
-click execute.
+-click execute.
 -- Step 2
 -@get Locations: try
 -/api/Location/GetLocationItems
