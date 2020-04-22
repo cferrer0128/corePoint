@@ -1,5 +1,4 @@
 # corePoint
-clone this REPO
 
 # Back End Engineering Challenge -- Libera Drive
 
@@ -44,30 +43,34 @@ We will use (0,0) is the center, X is the horizontal, Y is the vertical.
 - run click F5
 - Port={your_dev_port}
 
-##step 1
+--  Step 1
 - @inpout new data: Try
 - /api/Location/AddLocation
 - Json input data:
+  - add a street with a name using 2 points (POST baseurl/street - with the body being a street)
+  ```
 {
   "ItemName": "string",
   "x": 0,
   "y": 0,
   "x1": 0,
   "y1": 0,
-  "Distance": 0
+  
 }
+  ```
+
 click execute.
-#step 2
-@get Locations: try
-/api/Location/GetLocationItems
-click execute
-# repeat step 1 as many time as you want.
-#calculate Distances (formula used Math.Sqrt(number) and a* = a for SQR only)
-##assumptions
-there is no distance point of reference eg:
-5 miles from given point
-you will see the closest one first.
-you will be testing using swagger V1
-##Enjoy
+-- Step 2
+-@get Locations: try
+-/api/Location/GetLocationItems
+-click execute
+-# repeat step 1 as many time as you want.
+-#calculate Distances (formula used Math.Sqrt(number) and a* = a for SQR only)
+-##assumptions
+-there is no distance point of reference eg:
+-5 miles from given point
+-you will see the closest one first.
+-you will be testing using swagger V1
+-##Enjoy
 
 
