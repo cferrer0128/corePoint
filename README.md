@@ -39,7 +39,7 @@ We will use (0,0) is the center, X is the horizontal, Y is the vertical.
 ## Running the Application
 - Open this project with VS 2017+
 - Port={your_dev_port}
-- Open this URL: https://localhost:44339/swagger/index.html:
+- Open this URL: https://localhost:{your_dev_port}/swagger/index.html:
 - run click F5
 - Port={your_dev_port}
 
